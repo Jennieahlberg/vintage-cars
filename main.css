@@ -10,7 +10,7 @@ body{
 #nav{
     list-style: none;
     position: fixed;
-   margin-top: -20px;
+    margin-top: -20px;
     width:100%;
     overflow: hidden;
     font-family:sans-serif;
@@ -18,10 +18,10 @@ body{
     text-align: center;
     }
 #nav li {
-    width: 350px;;
+    width: 250px;
     height: 45px;
     display: inline-block;
-    background-color: rgb(250, 249, 241, 0.7);
+    background-color:rgb(250, 249, 241, 0.7);
     font-size: 20px;
     padding-top: 20px;
     }
